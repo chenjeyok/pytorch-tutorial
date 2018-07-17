@@ -1,6 +1,8 @@
 <p align="center"><img width="40%" src="logo/pytorch_logo_2018.svg" /></p>
 
 --------------------------------------------------------------------------------
+This repository is fork from [yunjey](https://github.com/yunjey/pytorc-tutorial) and provides jupyter(ipython) notebook version (.ipynb) along with each .py file
+This repository serves as my notebook as I'm currently getting familiar with Pytorch
 
 This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish [Official Pytorch Tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
 
